@@ -6,7 +6,9 @@ FileRecoverTool is an efficient solution for recovering deleted files from vario
 ## How to Use
 
  - -i                     Print the file system information.
+   
  -l                     List the root directory.
+
   -r filename [-s sha1]  Recover a contiguous file.
    
   -R filename -s sha1    Recover a possibly non-contiguous file.
