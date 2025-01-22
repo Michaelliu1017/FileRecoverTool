@@ -1,17 +1,15 @@
-
-* * * * * * * * * * * * * * * * * *         
-*     # FileRecoverTool           *
-*  GUOLIANG LIU     24/Nov/24     *    
-* * * * * * * * * * * * * * * * * *
+# FileRecoverTool          
+## Project Description
 FileRecoverTool is an efficient solution for recovering deleted files from various storage devices. It uses advanced algorithms to ensure secure and reliable restoration of important data.
 
 * Docker is required to perform the regular functionality.
+# How to Use
 
   -i                     Print the file system information.
   -l                     List the root directory.
   -r filename [-s sha1]  Recover a contiguous file.
   -R filename -s sha1    Recover a possibly non-contiguous file.
-
+## Addtional Info
 Milestone 1: validate usage. 
 Milestone 2: print the file system information. 
 Milestone 3: list the root directory. 
