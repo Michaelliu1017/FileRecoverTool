@@ -21,4 +21,6 @@ FileRecoverTool is an efficient solution for recovering deleted files from vario
 - Milestone 6: detect ambiguous file recovery requests. 
 - Milestone 7a: recover a small file with SHA-1 hash. 
 - Milestone 7b: recover a large contiguously-allocated file with SHA-1 hash. 
-- Milestone 8: recover a non-contiguously allocated file. 
+- Milestone 8: recover a non-contiguously allocated file.
+## Credit
+- [Michael Liu](https://github.com/Michaelliu1017)
